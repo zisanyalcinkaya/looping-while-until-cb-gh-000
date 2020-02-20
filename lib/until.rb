@@ -5,6 +5,5 @@ def using_until
   until counter=levitation_force do
     counter+=1
     puts "Wingardium Leviosa"
-  end  
+  end
 end
-
